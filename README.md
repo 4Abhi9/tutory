@@ -1,2 +1,1 @@
 # tutory
-hi all
